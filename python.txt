@@ -8,3 +8,8 @@ greet_user()
 print('finish')
 print('xyz')
 return void
+///
+{
+
+}
+///
