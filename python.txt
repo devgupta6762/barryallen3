@@ -3,6 +3,7 @@ def greet_user():
     print('Welcome abroad')
 
 
-print('Start')
+print("Start")
 greet_user()
 print('finish')
+return void
